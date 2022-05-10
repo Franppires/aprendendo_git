@@ -1,0 +1,17 @@
+O git é um gerenciador de versoes de projeto 
+O github é uma repositótio remoto pode criar páginas para montar portifólio 
+Depois de instalar deve fazer configuração inicial de user name e email
+
+Após configurar podemos usar, abaixo alguns comandos
+git init - para comecar o projeto 
+git add . - incluir todos os arquivos
+git diff  - quais alteraçoes realizadas 
+git status - mostra o que foi alterado
+git commit -m "" - depois de adicionar o arquivo fazer o commit para finalizar 
+.gitignore - deixar oculto o arquivos que contem senhas
+git tag -a v1.0 ou v1.1 - controles das versões do projeto 
+git clone link do github - pegar do repositorio remoto e clonar na maquina para poder trabalhar
+git push - depois de concluir as alterações, enviar para o repositorio remoto 
+git pull - sempre realizar o pull para pegar o projeto atualizado para não ocorrer conflito
+git branch - ramificações 
+git pull request - unir duas branch 
